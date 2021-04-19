@@ -1,0 +1,6 @@
+##Log : 
+First archived version of the map GEII.
+
+##Fix : 
+Usable transparent textures;
+Visible ladders.
