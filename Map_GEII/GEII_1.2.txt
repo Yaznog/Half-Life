@@ -1,0 +1,20 @@
+##Log : New textures and more weapons
+
+##Fix : 
+
+##Change :
+- New texture for walls (in and out), ground and windows frame.
+- No longer an egon waepon in the underground, remplaces by a longjump item.
+- Light in corridor have less power.
+- Spawnpoint has been changed.
+
+##Add :
+- A longjump has been implanted in Nadege's classroom.
+- A healcharger in the bottom right room at the 2nd layer and one at the enter.
+- Some healpacks, batteries weapons and ammos.
+- New box on the roof.
+- A wall at the edge of the map to prevent falling.
+
+##Remove :
+
+##Note : 

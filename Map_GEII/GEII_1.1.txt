@@ -10,8 +10,6 @@
 - Top of trees are less high
 - Texture and place of the obstacle on the roof
 - Delay between two action with light switch change to 0s (3s before) (toggle mode)
-- [Place and function of the switch of steel bar, now next to the ZC1 and and no longer destroys steel bars
-- [Steel bar of the ZC1 now are moving instead of been destroyed (3s between two movments) (Not working)
 - New mechanics with doors (press E to open and close the door, toggle mode, do 1 damage if the door is blocked, new sound, speed increase from 200 to 500)
 - New texture for walls, floors, doors and roofs(and all).
 
